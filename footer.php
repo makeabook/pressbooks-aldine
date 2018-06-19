@@ -60,7 +60,7 @@ $pb_network_contact_form = get_option( 'pb_network_contact_form' );
 			</div>
 		</div>
 		<section class="footer__pressbooks">
-		  <a class="footer__pressbooks__icon" href="https://pressbooks.com" title="Pressbooks">
+		  <a class="footer__pressbooks__icon" href="https://pressbooks.com" title="EpubSystems">
 				<?php // TODO ?>
 				<svg class="icon--svg">
 					<use xlink:href="#icon-pressbooks" />
